@@ -1,12 +1,25 @@
 # Título del Proyecto
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Actividad Git Entronos
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+Los primeros códigos...
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+cd desktop/entornos9
+git init
+git clone https://github.com/RafaelRomeroDam/-masteruah-.git
+
+Ya tenemos clonado nuestro repositorito en local
+
+git add readme.md
+git commit -m "Readme"
+git branch -M main
+git push -u origin main
+
+Ya hemos subido nuestro archivo al repositorio remoto.
+
+
 
 
 ### Pre-requisitos 📋
